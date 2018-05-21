@@ -1,4 +1,5 @@
 .idea/
 R.java
-*/.idea/
+.idea/*
 Manifest.java
+gen/
